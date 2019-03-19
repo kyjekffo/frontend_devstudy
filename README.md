@@ -1,4 +1,4 @@
 # Front-End developer skills
-*HTML
-*CSS
-*JavaScript
+>*HTML
+>*CSS
+>*JavaScript
