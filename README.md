@@ -1,4 +1,4 @@
-# Front-End developer skills
+# Front-End developer skills study
 >* HTML
 >* CSS
 >* JavaScript
