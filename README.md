@@ -1,1 +1,1 @@
-# devstudy
+# Front-End developer skills
